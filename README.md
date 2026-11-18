@@ -21,10 +21,10 @@ I am currently developing **[SYSCONA AI Studio](https://github.com/SharathKumarR
 | --- | --- | --- |
 | **[SYSCONA AI Studio](https://github.com/SharathKumarReddyAlijarla/syscona-ai-studio)** | Proprietary desktop AI suite covering dataset preparation, classification, detection, OCR, validation, and ONNX inference. | Python, PyQt5, PyTorch, YOLO, PaddleOCR, ONNX |
 | **[Offline Manual AI Assistant](https://github.com/SharathKumarReddyAlijarla/rag-ai-assistant)** | Local RAG system for querying technical manuals with grounded responses and offline model execution. | FastAPI, Streamlit, FAISS, SQLite, Ollama |
-| **[AI Research Assistant](https://github.com/SharathKumarReddyAlijarla/AI-Research-Assistant)** | Command-line research agent using LLMs, web search, Wikipedia, structured outputs, and file tools. | LangChain, OpenAI, Anthropic, Pydantic |
-| **[Video Accent Classification](https://github.com/SharathKumarReddyAlijarla/Video_accent_Classification)** | End-to-end pipeline for video download, speech transcription, speaker embeddings, and accent classification. | Whisper, SpeechBrain, FFmpeg, Streamlit |
-| **[Wind-Turbine Performance Prediction](https://github.com/SharathKumarReddyAlijarla/MasterThesis-Predicting_Wind_Turbine_Performance_with_Neural_Network_and_Invertible_Neural_Network)** | Master's thesis comparing LSTM and invertible neural networks for wind-turbine time-series prediction. | PyTorch, FrEIA, pandas, scikit-learn |
-| **[OpenML Regression Bot](https://github.com/SharathKumarReddyAlijarla/StudienArbeit-Scikit-Learn_Bot_for_OpenML_Regression_Tasks)** | Automated regression experiments with preprocessing, configurable models, evaluation, and OpenML result publishing. | Python, scikit-learn, OpenML, ConfigSpace |
+| **[AI Research Assistant](https://github.com/SharathKumarReddyAlijarla/ai-research-assistant)** | Command-line research agent using LLMs, web search, Wikipedia, structured outputs, and file tools. | LangChain, OpenAI, Anthropic, Pydantic |
+| **[Video Accent Classification](https://github.com/SharathKumarReddyAlijarla/video-accent-classification)** | End-to-end pipeline for video download, speech transcription, speaker embeddings, and accent classification. | Whisper, SpeechBrain, FFmpeg, Streamlit |
+| **[Wind-Turbine Performance Prediction](https://github.com/SharathKumarReddyAlijarla/wind-turbine-performance-prediction)** | Master's thesis comparing LSTM and invertible neural networks for wind-turbine time-series prediction. | PyTorch, FrEIA, pandas, scikit-learn |
+| **[OpenML Regression Bot](https://github.com/SharathKumarReddyAlijarla/openml-regression-bot)** | Automated regression experiments with preprocessing, configurable models, evaluation, and OpenML result publishing. | Python, scikit-learn, OpenML, ConfigSpace |
 
 ## Technical Toolkit
 
